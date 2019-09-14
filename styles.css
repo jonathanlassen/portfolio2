@@ -1,0 +1,155 @@
+@media screen and (max-width: 1000px) {
+  div.left_column {
+    width: 100%;
+  }
+
+  div.right_column {
+    width: 100%;
+  }
+
+  h1.selectedprojects {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 1200px) and (min-width: 1001px) {
+  div.bio {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  div.projecttext {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+}
+
+html {
+  font-size: 16px;
+  word-spacing: 1px;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
+.left_column {
+  width: 30%;
+  text-align: center;
+}
+
+.right_column {
+  width: 50%;
+  text-align: center;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.button--grey {
+  display: inline-block;
+  border-radius: 4px;
+  border: 1px solid #c5d5db;
+  color: #c5d5db;
+  text-decoration: none;
+  padding: 10px 10px;
+}
+
+.button--grey:hover {
+  color: #fff;
+  background-color: #9fa9a3;
+}
+
+.container2 {
+  background-color: hsla(40, 4%, 14%, 0.98);
+}
+
+.title {
+  font-family: "Cardo";
+  font-size: 50px;
+  color: #9fa8a3;
+  padding-top: 25px;
+}
+
+.title2 {
+  font-family: "Cardo";
+  font-size: 30px;
+  color: #9fa8a3;
+}
+
+.selectedprojects {
+  font-size: 30px;
+  color: #9fa8a3;
+  padding-top: 40px;
+}
+
+.title3 {
+  font-family: "Cardo";
+  font-size: 20px;
+  font-weight: bold;
+  color: #9fa8a3;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #444;
+}
+
+.subtitle {
+  font-family: "Cardo";
+  font-weight: 200;
+  font-size: 24px;
+  color: #e3e0cf;
+  word-spacing: 5px;
+  margin-top: 15px;
+}
+
+.bio {
+  font-family: "Cardo";
+  font-size: 20px;
+  color: #e3e0cf;
+  margin-top: 15px;
+  text-align: left;
+  padding-right: 50px;
+  padding-left: 50px;
+  margin-bottom: 15px;
+}
+
+.projecttext {
+  font-family: "Cardo";
+  font-size: 18px;
+  color: #e3e0cf;
+  margin-top: 20px;
+  text-align: left;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+img.imagefilter {
+  filter: contrast(80%);
+
+  object-fit: contain;
+  width: 100%;
+  max-height: 600px;
+  border-radius: 25px;
+}
+
+.links {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
