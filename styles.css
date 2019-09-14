@@ -66,8 +66,8 @@ html {
 .button--grey {
   display: inline-block;
   border-radius: 4px;
-  border: 1px solid #c5d5db;
-  color: #c5d5db;
+  border: 1px solid #d4dadc;
+  color: #d4dadc;
   text-decoration: none;
   padding: 10px 10px;
 }
@@ -84,19 +84,19 @@ html {
 .title {
   font-family: "Cardo";
   font-size: 50px;
-  color: #b4bab7;
+  color: #cfccbe;
   padding-top: 25px;
 }
 
 .title2 {
   font-family: "Cardo";
   font-size: 30px;
-  color: #b4bab7;
+  color: #cfccbe;
 }
 
 .selectedprojects {
   font-size: 30px;
-  color: #b4bab7;
+  color: #cfccbe;
   padding-top: 40px;
 }
 
@@ -104,7 +104,7 @@ html {
   font-family: "Cardo";
   font-size: 20px;
   font-weight: bold;
-  color: #b4bab7;
+  color: #cfccbe;
   margin-top: 10px;
   padding-top: 10px;
   border-top: 1px solid #444;
@@ -114,7 +114,7 @@ html {
   font-family: "Cardo";
   font-weight: 200;
   font-size: 24px;
-  color: #e3e0cf;
+  color: #cfccbe;
   word-spacing: 5px;
   margin-top: 15px;
 }
@@ -122,7 +122,7 @@ html {
 .bio {
   font-family: "Cardo";
   font-size: 20px;
-  color: #e3e0cf;
+  color: #cfccbe;
   margin-top: 15px;
   text-align: left;
   padding-right: 50px;
@@ -133,7 +133,7 @@ html {
 .projecttext {
   font-family: "Cardo";
   font-size: 18px;
-  color: #e3e0cf;
+  color: #cfccbe;
   margin-top: 20px;
   text-align: left;
   padding-left: 80px;
