@@ -141,7 +141,7 @@ html {
 }
 
 img.imagefilter {
-  filter: contrast(80%);
+  filter: contrast(90%);
 
   object-fit: contain;
   width: 100%;
