@@ -84,19 +84,19 @@ html {
 .title {
   font-family: "Cardo";
   font-size: 50px;
-  color: #9fa8a3;
+  color: #b4bab7;
   padding-top: 25px;
 }
 
 .title2 {
   font-family: "Cardo";
   font-size: 30px;
-  color: #9fa8a3;
+  color: #b4bab7;
 }
 
 .selectedprojects {
   font-size: 30px;
-  color: #9fa8a3;
+  color: #b4bab7;
   padding-top: 40px;
 }
 
@@ -104,7 +104,7 @@ html {
   font-family: "Cardo";
   font-size: 20px;
   font-weight: bold;
-  color: #9fa8a3;
+  color: #b4bab7;
   margin-top: 10px;
   padding-top: 10px;
   border-top: 1px solid #444;
